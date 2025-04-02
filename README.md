@@ -10,7 +10,7 @@
 </p>
 
 ## Overview  
-**Scientific Comic Generator ** is an AI-powered comic generation platform that creates fully customized comics using generative AI. It uses **Large Language Models (LLMs)** ie-Phi 2   to generate comic scripts from user prompts and employs **Stable Diffusion** for AI-driven illustrations.  
+**Scientific Comic Generator** is an AI-powered comic generation platform that creates fully customized comics using generative AI. It uses **Large Language Models (LLMs)** ie-Phi 2   to generate comic scripts from user prompts and employs **Stable Diffusion** for AI-driven illustrations.  
 
 The platform allows users to input a story idea, and the AI generates a complete comic strip with dialogues, captions, and stunning visuals. A **PG-13 filter** ensures safe exposure for young audiences, and a **text-to-speech (TTS)** feature provides audio narration for the comics.  
 
